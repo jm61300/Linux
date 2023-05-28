@@ -1,2 +1,3 @@
 Faaaaala galeraaa
 
+# Linux
